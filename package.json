@@ -1,0 +1,26 @@
+{
+  "name": "berke-erdogan",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "berke": "echo 'Benim adım Berke'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Berke Erdogan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.2",
+    "nodemailer": "^6.5.0",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berkeerdo/berke-erdogan.git"
+  }
+}
